@@ -2,6 +2,7 @@
 <h3 align="center">A Passionate Engineering Student.</h3>
 
 - 📫 How to reach me **yash.chaturvedi2001@gmail.com**
+- ⚡ Fun fact **I think I am Funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
