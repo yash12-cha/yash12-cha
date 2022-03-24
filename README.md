@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Chaturvedi</h1>
-<h3 align="center">A Passionate Engineering Student.</h3>
+<h3 align="center">Aspiring Software Developer.</h3>
 
 - 📫 How to reach me **yash.chaturvedi2001@gmail.com**
 - ⚡ Fun fact **I think I am Funny.**
