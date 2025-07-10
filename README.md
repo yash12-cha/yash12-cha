@@ -24,7 +24,7 @@ I stay committed to continuous learning and staying current with backend technol
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yash-chaturvedi-02b6761b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-chaturvedi-02b6761b7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-chaturvedi2803/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-chaturvedi-02b6761b7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/krisna_568" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/krisna_568" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/a_1903480100128?h_r=internal-search&hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/a_1903480100128?h_r=internal-search&hr_r=1" height="30" width="40" /></a>
 <a href="http://www.hackerearth.com/@1903480100128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="http://www.hackerearth.com/@1903480100128" height="30" width="40" /></a>
